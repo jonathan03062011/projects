@@ -1,0 +1,11 @@
+Model Information:
+* title:	MOMO STEERING WHEEL
+* source:	https://sketchfab.com/3d-models/momo-steering-wheel-df0f19fdd8114f9a837025bdde98cc12
+* author:	ijiklvn (https://sketchfab.com/kelvin-carvalho)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MOMO STEERING WHEEL" (https://sketchfab.com/3d-models/momo-steering-wheel-df0f19fdd8114f9a837025bdde98cc12) by ijiklvn (https://sketchfab.com/kelvin-carvalho) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
